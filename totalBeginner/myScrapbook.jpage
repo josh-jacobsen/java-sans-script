@@ -1,0 +1,4 @@
+Syntax error on token "be", ; expectedgetName cannot be resolved or is not a fieldPerson p = new Person();
+p.setName("Fred");
+p.setMaximumBooks(10)
+p.getName

@@ -11,6 +11,7 @@ public class Person {
 		maximumBooks = 3;
 	}
 	
+	// methods
 	public String getName() {
 		return name;
 	}
